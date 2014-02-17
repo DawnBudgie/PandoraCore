@@ -1,0 +1,4 @@
+PandoraCore
+===========
+
+Core plugin
